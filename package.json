@@ -1,0 +1,24 @@
+{
+  "name": "bizcardz",
+  "version": "0.0.1",
+  "description": "Playing around with Tesseract-OCR and extracting data from a business card.",
+  "main": "scancardtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scancardtest.js"
+  },
+  "author": "Howchmo",
+  "license": "ISC",
+  "dependencies": {
+    "knwl.js": "^1.0.2",
+    "node-tesseract": "^0.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howchmo/bizcardz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/howchmo/bizcardz/issues"
+  },
+  "homepage": "https://github.com/howchmo/bizcardz#readme"
+}
